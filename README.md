@@ -1,6 +1,6 @@
 ##  Olá, meu nome é <strong>Luiz!</strong>
 
->Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Descomplica. Atualmente estou buscando ampliar meus conhecimentos de forma a me colocar no mercado de trabalho em uma oportunidade de estágio, focado em <strong> Quality Assurance </strong>;
+> <strong> Analista de Qualidade Pleno </strong>;
 
 Minhas tecnologias em estudos são:
 
@@ -32,8 +32,3 @@ Minhas tecnologias em estudos são:
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-
----
-
-## ⭐ Informações sobre minha conta GitHub!
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgpolido&layout=compact&theme=dracula)

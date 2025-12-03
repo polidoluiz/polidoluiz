@@ -18,7 +18,7 @@ Minhas tecnologias em estudos são:
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-v5.5.0-5C2D91?style=flat&logo=java&logoColor=white)
-![Karate DSL](https://img.shields.io/badge/Karate%20DSL%20🥋-000000?style=for-the-badge)
+![Karate DSL](https://img.shields.io/badge/🥋%20Karate%20DSL-000000?style=for-the-badge)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/luizgpolido)
